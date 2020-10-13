@@ -1,3 +1,5 @@
 my world in second file
 
 learning demo repo and push
+
+checking someone status 
